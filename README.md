@@ -38,4 +38,9 @@ The invader dir should go like this:
 ├── k3s_setup.tf
 ├── server.tf
 └── setup.tf
-```  
+```
+
+INSTALL
+-------
+
+Just copy the `invade` file to your `$PATH` dir.
